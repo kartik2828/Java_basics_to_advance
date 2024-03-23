@@ -1,18 +1,18 @@
-// Swap two Numbers
-// Reverse a Number
-// Reverse a String
-// Pallindrome Number
-// Pallindrome String
-// Count number of digits in a number
-// Count number of even and odd digits in a number
-// Count sum of digits in a number
-// Find largest of 3 Numbers
-// Generate Fibonacci series
-// Check given number is prime or not
-// How to generate random number & strings
-// Factorial of a number
-// Find sum of element in an array
-// Print even & odd numbers from an array
+// 1. Swap two Numbers
+// 2. Reverse a Number
+// 3. Reverse a String
+// 4. Pallindrome Number
+// 5. Pallindrome String
+// 6. Count number of digits in a number
+// 7. Count number of even and odd digits in a number
+// 8. Count sum of digits in a number
+// 9. Find largest of 3 Numbers
+// 10. Generate Fibonacci series
+// 11. Check given number is prime or not
+// 12. How to generate random number & strings
+// 13. Factorial of a number
+// 14. Find sum of element in an array
+// 15. Print even & odd numbers from an array
 // How to check the equality of two arrays
 // Find Missing Number in an array
 // How to find maximum and minimum value in an array
