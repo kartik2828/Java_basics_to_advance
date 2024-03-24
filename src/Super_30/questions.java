@@ -13,11 +13,11 @@
 // 13. Factorial of a number
 // 14. Find sum of element in an array
 // 15. Print even & odd numbers from an array
-// How to check the equality of two arrays
-// Find Missing Number in an array
-// How to find maximum and minimum value in an array
-// How to find duplicate element in an array
-// searching an element in an array # Linear Search
+// 16. How to check the equality of two arrays
+// 17. Find Missing Number in an array
+// 18. How to find maximum and minimum value in an array
+// 19. How to find duplicate element in an array
+// 20. searching an element in an array # Linear Search
 // searching an element in an array $Binary search
 // sort elements in an array # Bubble sort
 // Sort element in array using Built in methods
