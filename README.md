@@ -1,5 +1,5 @@
 **Master Java Interview Questions (Up to 10 LPA)**
-
+Before starting this series make sure you have some basic knowledge of Java.
 This repository is designed to help you ace your next Java developer interview for roles up to 10 LPA (Lakhs Per Annum). It provides a curated collection of frequently asked Java interview questions, along with explanations and potential solutions. 
 
 **What You'll Find Here:**
